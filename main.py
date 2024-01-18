@@ -3,7 +3,7 @@ import telebot
 from dotenv import load_dotenv
 
 load_dotenv()
-# test
+# test 2
 
 API_KEY = os.getenv('API_KEY')
 print(API_KEY)
