@@ -1,1 +1,2 @@
-# tg_trading_bot
+## Telegram Trading Bot
+# fuck
