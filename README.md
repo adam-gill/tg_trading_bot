@@ -1,11 +1,14 @@
 # Telegram Bot
 
-## Developers:
+### Developers:
 Donte Palmer
 Adam Gill
 Daniel Bird
 Daniel Ha
 Cheng-Yu Hsieh
 
-## Mentored by:
+### Mentored by:
 Yen Kai Huang
+
+## Project Architecture:
+
