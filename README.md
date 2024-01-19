@@ -1,7 +1,7 @@
 # Telegram Bot
 
 ### Developers:
-Donte Palmer
+Donte Palmer \n
 Adam Gill
 Daniel Bird
 Daniel Ha
