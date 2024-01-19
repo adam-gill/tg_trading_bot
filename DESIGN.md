@@ -4,9 +4,13 @@
 
 ## Telegram Bot UI:
 
-## Translator:
-The Translator is the front-most facing backend module of the Telegram bot. When the server receives a message from the user, the Translator translates the message into DuneSQL and encoded logic and stores it in the Database. Uses a serialized logic representation for translation and storage of encoded logic.
-
+## Backend:
+The backend includes three basic modules: **Translator**, **Database**, and **Data Retriever**.
+<br />
+### Translator:
+The Translator is the front-most facing backend module of the Telegram bot. When the server receives a message from the user, the Translator translates the message into DuneSQL and encoded logic and stores it in the Database.
+<br />
+Runs **Data Retriever**
 ## Database:
 This project uses a relational database. It will be organized into three tables: **users**, **events**, and **queries**.
 
@@ -15,4 +19,4 @@ A rough outline of the database structure is shown below:
 
 
 
-## Data receiver:
+## Data Retriever:
