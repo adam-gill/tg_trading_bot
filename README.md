@@ -1,14 +1,14 @@
 # Telegram Bot
 ## Readme
 ### Team Kyle Jan 2024
-## Developers:
+### Developers:
 Donte Palmer<br />
 Adam Gill<br />
 Daniel Bird<br />
 Daniel Ha<br />
 Cheng-Yu Hsieh<br />
 
-## Mentored by:
+### Mentored by:
 Yen Kai Huang
 
 ## Project Architecture diagram:
