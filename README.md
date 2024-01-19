@@ -1,11 +1,11 @@
 # Telegram Bot
 
 ### Developers:
-Donte Palmer \n
-Adam Gill
-Daniel Bird
-Daniel Ha
-Cheng-Yu Hsieh
+Donte Palmer<br />
+Adam Gill<br />
+Daniel Bird<br />
+Daniel Ha<br />
+Cheng-Yu Hsieh<br />
 
 ### Mentored by:
 Yen Kai Huang
