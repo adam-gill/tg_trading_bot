@@ -1,4 +1,4 @@
-# Telegram Bot
+### Telegram Bot
 ### Team Kyle Jan 2024
 # Implementation Details
 
