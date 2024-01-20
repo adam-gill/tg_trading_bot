@@ -17,4 +17,4 @@ example:
 user specifies an "event" which triggers if bitcoin transactions exceed 100,000 per day.
 
 ## Project Architecture diagram:
-![Proj  Diagram](https://github.com/adam-gill/tg_trading_bot/assets/81604772/a4373141-7b44-472e-b11e-476e137851a7)
+![Proj_arch_draft2](https://github.com/adam-gill/tg_trading_bot/assets/81604772/413dbd5e-f6e7-4233-b789-820b978252da)
