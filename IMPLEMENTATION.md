@@ -1,5 +1,5 @@
 ### Telegram Bot
-### Team Kyle Jan 2024
+> Team Kyle Jan 2024
 # Implementation Details
 
 ## Project Architecture Diagram:
