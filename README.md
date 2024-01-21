@@ -2,19 +2,16 @@
 <div align="center">
   <p>By: Team Kyle</p>
   <p>The power of the Dune community in your pocket!</p>
-  <div>
     <picture>
       <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" media="(prefers-color-scheme: dark)">
       <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" media="(prefers-color-scheme: light)">
       <img alt="Telegram Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="140">
     </picture>
-    
     <picture>
       <source srcset="https://github.com/adam-gill/tg_trading_bot/assets/81604772/1a2f2ecf-1758-414f-99e5-36c90c10ddff" media="(prefers-color-scheme: dark)">
       <source srcset="https://github.com/adam-gill/tg_trading_bot/assets/81604772/1a2f2ecf-1758-414f-99e5-36c90c10ddff" media="(prefers-color-scheme: light)">
       <img alt="Dune Logo" src="https://github.com/adam-gill/tg_trading_bot/assets/81604772/1a2f2ecf-1758-414f-99e5-36c90c10ddff" width="145">
     </picture>
-  </div>
 </div>
 
   
