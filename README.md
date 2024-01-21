@@ -8,9 +8,10 @@
     <img alt="Telegram Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"  width="140">
   </picture>
   <picture>
-    <source srcset="https://w7.pngwing.com/pngs/671/884/png-transparent-dune-analytics-logo-thumbnail-tech-companies.png" media="(prefers-color-scheme: dark)">
-    <source srcset="https://w7.pngwing.com/pngs/671/884/png-transparent-dune-analytics-logo-thumbnail-tech-companies.png" media="(prefers-color-scheme: light)">
-    <img alt="Dune Logo" src="https://w7.pngwing.com/pngs/671/884/png-transparent-dune-analytics-logo-thumbnail-tech-companies.png"  width="140">
+    <source srcset="![dune_logo](https://github.com/adam-gill/tg_trading_bot/assets/81604772/1a2f2ecf-1758-414f-99e5-36c90c10ddff)"
+ media="(prefers-color-scheme: dark)">
+    <source srcset="![dune_logo](https://github.com/adam-gill/tg_trading_bot/assets/81604772/1a2f2ecf-1758-414f-99e5-36c90c10ddff)" media="(prefers-color-scheme: light)">
+    <img alt="Dune Logo" src="![dune_logo](https://github.com/adam-gill/tg_trading_bot/assets/81604772/1a2f2ecf-1758-414f-99e5-36c90c10ddff)"  width="140">
   </picture>
   <h3>Download Telegram here:</h3>
 </div>
