@@ -1,7 +1,7 @@
 <h1 align="center">Telegram Bot</h1> 
 <div align="center">
   <p>Made by: Team Kyle</p>
-  <p>Built Jan-Feb 2024</p>
+  <p>Last updated: Jan 20, 2024</p>
   <p>The power of the Dune community in your pocket!</p>
   <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
     <a href="https://telegram.org/">
