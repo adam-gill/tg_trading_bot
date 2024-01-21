@@ -1,5 +1,5 @@
 ### Telegram Bot 
-## Design Specifications
+### Design Specifications
 > Team Kyle Jan 2024
 
 ## Telegram Bot UI:
