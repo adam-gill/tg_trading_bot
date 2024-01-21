@@ -11,7 +11,7 @@
       <img alt="Dune Logo" src="https://cdn-images.himalayas.app/d05wh7oxdola32ep86joa8x0wzhc" width="146">
     </a>
   </div>
-  <h3>Download Telegram here to try it out!:</h3>
+  <h3>Download Telegram to try it out!:</h3>
 </div>
 
 <div align="center">
