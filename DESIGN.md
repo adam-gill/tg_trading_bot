@@ -1,18 +1,3 @@
-<h1 align="center"> Telegram Bot </h1>
-<p align="center">
-  <a>By: Team Kyle</a>
-</p>
-
-<p align="center">
-  The power of the Dune community, right in your pocket!
-</p>
-
-<p align="center">
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png">
-    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
-  </a>
-</p>
-
 ## Telegram Bot UI:
 
 ## Backend:
