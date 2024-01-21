@@ -1,4 +1,4 @@
-<h1 align="center"> Telegram Bot </h1> <br>
+<h1 align="center"> Telegram Bot </h1>
 <p align="center">
   <a>By: Team Kyle</a>
 </p>
