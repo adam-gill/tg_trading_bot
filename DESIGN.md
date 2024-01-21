@@ -2,6 +2,5 @@
 ## Design Specifications
 
 ## User interactions
-We want our users to be able to interact with our chatbot using simple commands. <br/>
-We plan on offering users simple pre-set messages that allow 
+Utilizing [the Telegram Bot API](https://core.telegram.org/bots/api).
 
