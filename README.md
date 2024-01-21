@@ -11,7 +11,7 @@
     <source srcset="https://github.com/adam-gill/tg_trading_bot/assets/81604772/1a2f2ecf-1758-414f-99e5-36c90c10ddff"
  media="(prefers-color-scheme: dark)">
     <source srcset="https://github.com/adam-gill/tg_trading_bot/assets/81604772/1a2f2ecf-1758-414f-99e5-36c90c10ddff" media="(prefers-color-scheme: light)">
-    <img alt="Dune Logo" src="https://github.com/adam-gill/tg_trading_bot/assets/81604772/1a2f2ecf-1758-414f-99e5-36c90c10ddff"  width="150">
+    <img alt="Dune Logo" src="https://github.com/adam-gill/tg_trading_bot/assets/81604772/1a2f2ecf-1758-414f-99e5-36c90c10ddff"  width="145">
   </picture>
   <h3>Download Telegram here:</h3>
 </div>
