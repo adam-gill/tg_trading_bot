@@ -14,7 +14,7 @@
   <h3>Download Telegram here to try it out!:</h3>
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://apps.apple.com/us/app/telegram-messenger/id686449807">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
@@ -26,8 +26,7 @@
   <h4>
     Or simply follow this link: <a href="https://t.me/b97cfb452bebb5efbot">Telegram Trading Bot</a>
   </h4>
-  
-</p>
+</div>
 
 ## Summary of our product:
 Our product is a chatbot that users can interact with to easily access and utilize [Dune](https://dune.com/)’s sophisticated and large query system. It is not just a chatbot to access Dune, but a means for users to specify query-based "events," which, if triggered will notify the user.
