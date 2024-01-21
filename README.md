@@ -2,7 +2,7 @@
 <div align="center">
   <p>By: Team Kyle</p>
   <p>The power of the Dune community in your pocket!</p>
-  <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
+  <div>
     <picture>
       <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" media="(prefers-color-scheme: dark)">
       <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" media="(prefers-color-scheme: light)">
