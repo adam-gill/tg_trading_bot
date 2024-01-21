@@ -3,7 +3,7 @@
 Team Kyle Jan 2024
 
 ## Project Architecture Diagram:
-![proj_arch_v2 1](https://github.com/adam-gill/tg_trading_bot/assets/81604772/6aaf4809-7155-4c0d-a822-89279e9c760b)
+![proj_arch_v2 2](https://github.com/adam-gill/tg_trading_bot/assets/81604772/3c4b8df5-63a1-4f50-8fb7-44029b790017)
 
 ## Telegram Bot UI:
 
