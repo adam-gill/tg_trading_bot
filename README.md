@@ -7,11 +7,9 @@
     <a href="https://telegram.org/">
     <img alt="Telegram Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="140">
     </a>
-    <picture>
-      <a href="https://dune.com/">
-        <img alt="Dune Logo" src="https://cdn-images.himalayas.app/d05wh7oxdola32ep86joa8x0wzhc" width="146">
-      </a>
-    </picture>
+    <a href="https://dune.com/">
+      <img alt="Dune Logo" src="https://cdn-images.himalayas.app/d05wh7oxdola32ep86joa8x0wzhc" width="146">
+    </a>
   </div>
   <h3>Download Telegram here to try it out!:</h3>
 </div>
