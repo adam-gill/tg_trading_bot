@@ -1,6 +1,7 @@
 <h1 align="center">Telegram Bot</h1> 
 <div align="center">
-  <p>By: Team Kyle</p>
+  <p>Developed by: Donte, Adam, Daniel B, Daniel H, and Cheng-Yu</p>
+  <p>Project Mentored by: Kyle</p>
   <p>Built Jan-Feb 2024</p>
   <p>The power of the Dune community in your pocket!</p>
   <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
