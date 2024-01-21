@@ -2,9 +2,11 @@
 <p align="center">
   <p>By: Team Kyle</p>
 </p>
-<p align="center">The power of the Dune community in your pocket!</p>
-<img alt="Telegram App Logo" title="Telegram Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="140" align="center">
-<h3 align="center">Download Telegram here:</h3>
+<div align="center">
+  <p>The power of the Dune community in your pocket!</p>
+  <img alt="Telegram App Logo" title="Telegram Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="140">
+  <h3>Download Telegram here:</h3>
+</div>
 
 <p align="center">
   <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
