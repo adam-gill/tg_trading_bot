@@ -1,4 +1,4 @@
-<h1 align="center">Telegram Bot</h1> 
+<h1 align="center">Telegram Trading Bot</h1> 
 <div align="center">
   <p>Made by: Team Kyle</p>
   <p>Last updated: Jan 20, 2024</p>
@@ -24,7 +24,7 @@
   </a>
   <h4>Begin messaging our bot here: @b97cfb452bebb5efbot</h4>
   <h4>
-    Or simply follow this link: <a href="https://t.me/b97cfb452bebb5efbot"></a>
+    Or simply follow this link: <a href="https://t.me/b97cfb452bebb5efbot">Telegram Trading Bot</a>
   </h4>
   
 </p>
