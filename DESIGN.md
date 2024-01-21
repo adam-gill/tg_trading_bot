@@ -1,3 +1,6 @@
+# Telegram Trading Bot
+## Design Specifications
+
 ## Telegram Bot UI:
 
 ## Backend:
