@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  GitHub in your pocket. Built with React Native.
+  The power of the Dune community, right in your pocket!
 </p>
 
 <p align="center">
