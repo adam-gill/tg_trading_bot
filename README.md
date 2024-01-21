@@ -3,7 +3,10 @@
   <p>By: Team Kyle</p>
   <p>The power of the Dune community in your pocket!</p>
   <picture>
-    <img alt="Telegram App Logo" title="Telegram Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="140">
+    <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" media="(prefers-color-scheme: dark)">
+    <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" media="(prefers-color-scheme: light)">
+    <img alt="Telegram Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"  width="140">
+
   </picture>
   <h3>Download Telegram here:</h3>
 </div>
