@@ -32,4 +32,4 @@
 Our product is a chatbot that users can interact with to easily access and utilize [Dune](https://dune.com/)’s sophisticated and large query system. It is not just a chatbot to access Dune, but a means for users to specify query-based "events," which, if triggered will notify the user.
 ### Example usage:
 The user specifies an "event" which triggers if the number of Bitcoin transactions per 24 hours exceeds 100,000.<br/>
-When this occurs, the Telegram chatbot notifies the user of this occurrence. 
+When the event "triggers", the Telegram chatbot will notify the user.
