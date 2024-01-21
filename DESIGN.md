@@ -2,5 +2,4 @@
 ## Design Specifications
 
 ## User interactions
-Utilizing [the Telegram Bot API](https://core.telegram.org/bots/api).
-
+Utilizing built-in chatbot functionality from the [Telegram Bot API](https://core.telegram.org/bots/api), our chatbot will allow users to interact with it using commands in the format: **"/command {parameter}**.
