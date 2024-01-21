@@ -1,6 +1,6 @@
+# Implementation Details
 ### Telegram Trading Bot
 Team Kyle Jan 2024
-# Implementation Details
 
 ## Project Architecture Diagram:
 > Full Architecture of project 
