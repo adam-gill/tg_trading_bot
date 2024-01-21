@@ -14,7 +14,7 @@
       <img alt="Dune Logo" src="https://github.com/adam-gill/tg_trading_bot/assets/81604772/1a2f2ecf-1758-414f-99e5-36c90c10ddff" width="146">
     </picture>
   </div>
-  <h3>Download Telegram here:</h3>
+  <h3>Download Telegram here to try it out!:</h3>
 </div>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
