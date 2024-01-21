@@ -11,7 +11,7 @@
   <h3>Download Telegram here:</h3>
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://apps.apple.com/us/app/telegram-messenger/id686449807">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
@@ -19,7 +19,7 @@
   <a href="https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_US&gl=US&pli=1">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
-</p>
+</div>
 
 #### Mentored by:
 Yen Kai Huang
