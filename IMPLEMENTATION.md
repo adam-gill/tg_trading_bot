@@ -1,6 +1,6 @@
-### Telegram Bot
-Team Kyle Jan 2024
 # Implementation Details
+### Telegram Trading Bot
+Team Kyle Jan 2024
 
 ## Project Architecture Diagram:
 ![Prog_arch_v2](https://github.com/adam-gill/tg_trading_bot/assets/81604772/83333fb4-2a50-4e4f-9b73-1fcd7fde7f79)
