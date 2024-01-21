@@ -3,8 +3,7 @@
 # Implementation Details
 
 ## Project Architecture Diagram:
-![Proj_arch_draft2](https://github.com/adam-gill/tg_trading_bot/assets/81604772/8b6f2fb3-c168-4659-b834-e8acb87e110b)
-
+![Prog_arch_v2](https://github.com/adam-gill/tg_trading_bot/assets/81604772/83333fb4-2a50-4e4f-9b73-1fcd7fde7f79)
 
 ## Telegram Bot UI:
 
@@ -14,7 +13,4 @@ This project uses a relational database. It will be organized into three tables:
 A rough outline of the database structure is shown below:
 ![Screenshot 2024-01-19 at 3 10 55 PM](https://github.com/adam-gill/tg_trading_bot/assets/81604772/1e94b320-315a-4233-bd5f-c2363181a87e)
 
-
-
 ## Data receiver:
-![Prog_arch_v2](https://github.com/adam-gill/tg_trading_bot/assets/81604772/83333fb4-2a50-4e4f-9b73-1fcd7fde7f79)
