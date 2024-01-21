@@ -1,6 +1,7 @@
 <h1 align="center">Telegram Bot</h1> 
 <div align="center">
   <p>By: Team Kyle</p>
+  <p>Built Jan-Feb 2024</p>
   <p>The power of the Dune community in your pocket!</p>
   <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
     <picture>
@@ -26,9 +27,6 @@
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
 </p>
-
-#### Mentored by:
-Yen Kai Huang
 
 ## Summary of our product:
 Our product is a chatbot that users can interact with to easily access and utilize [Dune](https://dune.com/)’s sophisticated and large query system. It is not just a chatbot to access Dune, but a means for users to specify query-based "events," which, if triggered will notify the user.
