@@ -1,4 +1,4 @@
-![image](https://github.com/adam-gill/tg_trading_bot/assets/81604772/f5b49e47-b424-4cfc-82f6-241dd3115f55)<h1 align="center"> Telegram Bot</h1> 
+<h1 align="center"> Telegram Bot</h1> 
 <div align="center">
   <p>By: Team Kyle</p>
   <p>The power of the Dune community in your pocket!</p>
