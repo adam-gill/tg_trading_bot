@@ -17,7 +17,7 @@
   <h3>Download Telegram here to try it out!:</h3>
 </div>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<p align="center">
   <a href="https://apps.apple.com/us/app/telegram-messenger/id686449807">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
