@@ -1,4 +1,4 @@
-<h1 align="center"> Telegram Bot</h1> 
+![image](https://github.com/adam-gill/tg_trading_bot/assets/81604772/f5b49e47-b424-4cfc-82f6-241dd3115f55)<h1 align="center"> Telegram Bot</h1> 
 <div align="center">
   <p>By: Team Kyle</p>
   <p>The power of the Dune community in your pocket!</p>
@@ -6,7 +6,11 @@
     <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" media="(prefers-color-scheme: dark)">
     <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" media="(prefers-color-scheme: light)">
     <img alt="Telegram Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"  width="140">
-
+  </picture>
+  <picture>
+    <source srcset="https://w7.pngwing.com/pngs/671/884/png-transparent-dune-analytics-logo-thumbnail-tech-companies.png" media="(prefers-color-scheme: dark)">
+    <source srcset="https://w7.pngwing.com/pngs/671/884/png-transparent-dune-analytics-logo-thumbnail-tech-companies.png" media="(prefers-color-scheme: light)">
+    <img alt="Dune Logo" src="https://w7.pngwing.com/pngs/671/884/png-transparent-dune-analytics-logo-thumbnail-tech-companies.png"  width="140">
   </picture>
   <h3>Download Telegram here:</h3>
 </div>
