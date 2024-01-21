@@ -2,11 +2,9 @@
 <p align="center">
   <p>By: Team Kyle</p>
 </p>
+<p align="center">The power of the Dune community in your pocket!</p>
+<h3 align="center">Download Telegram here:</h3>
 
-<p align="center">
-  <p>The power of the Dune community in your pocket!</p>
-  <h3>Download Telegram here:</h3>
-</p>
 <p align="center">
   <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
